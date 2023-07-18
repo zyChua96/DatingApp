@@ -7,6 +7,7 @@ using SQLitePCL;
 
 namespace API.Controllers
 {
+    // [Authorize]
     public class UsersController: BaseApiController
     {
 
